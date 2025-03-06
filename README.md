@@ -1,4 +1,4 @@
-# comando git
+# Comando git
 
 ## Configurando markdown
 - cd /c 
@@ -24,3 +24,15 @@ inicia repositorio git
 - git remote add origin git@github.com:ryamback001/aula-git.git
 
 - code .
+
+- git branch
+
+- git add (raedme.md)  adiciona o arquivo
+
+- git status- git commit -m "Adicionado aq readme"
+
+- git status
+
+
+## AUTOR
+nome: Rian Souza de Almeida
