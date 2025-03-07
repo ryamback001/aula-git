@@ -1,4 +1,4 @@
-# comando git
+# Comando git
 
 ## Configurando markdown
 - cd /c 
@@ -24,13 +24,17 @@ inicia repositorio git
 - git remote add origin git@github.com:ryamback001/aula-git.git
 
 - code .
+<<<<<<< HEAD
 <<<<<<< main
 =======
+=======
+>>>>>>> 45323cd264933c4c77023525f37161e66e5ec54a
 
 - git branch
 
 - git add (raedme.md)  adiciona o arquivo
 
+<<<<<<< HEAD
 - git status- 
 
 - git commit -m "Adicionado aq readme"
@@ -47,3 +51,12 @@ retira do stage chenge e adiciona no repositorio local
 ## AUTOR
 nome: Rian Souza de Almeida
 >>>>>>> local
+=======
+- git status- git commit -m "Adicionado aq readme"
+
+- git status
+
+
+## AUTOR
+nome: Rian Souza de Almeida
+>>>>>>> 45323cd264933c4c77023525f37161e66e5ec54a
