@@ -24,3 +24,26 @@ inicia repositorio git
 - git remote add origin git@github.com:ryamback001/aula-git.git
 
 - code .
+<<<<<<< main
+=======
+
+- git branch
+
+- git add (raedme.md)  adiciona o arquivo
+
+- git status- 
+
+- git commit -m "Adicionado aq readme"
+retira do stage chenge e adiciona no repositorio local
+
+- git fetch
+
+- git checkout -m nomedabrench
+
+- git status
+## clone Repo
+- git clone (repo)
+
+## AUTOR
+nome: Rian Souza de Almeida
+>>>>>>> local
